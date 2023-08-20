@@ -52,9 +52,7 @@ body {
     float: left;
   }
 
-  #third-section {
-    width: 95%;
-  }
+
 }
 
 @media (min-width: 992px) {
